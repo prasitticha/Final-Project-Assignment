@@ -1,0 +1,12 @@
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final-Project-Assignment\Final Project Assignment\Final Project Assignment\bin\Debug\Final Project Assignment.exe.config
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final-Project-Assignment\Final Project Assignment\Final Project Assignment\bin\Debug\Final Project Assignment.exe
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final-Project-Assignment\Final Project Assignment\Final Project Assignment\bin\Debug\Final Project Assignment.pdb
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final-Project-Assignment\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.csproj.AssemblyReference.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final-Project-Assignment\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final-Project-Assignment\Final Project Assignment\Final Project Assignment\obj\Debug\Final_Project_Assignment.Properties.Resources.resources
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final-Project-Assignment\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.csproj.GenerateResource.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final-Project-Assignment\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final-Project-Assignment\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.exe
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final-Project-Assignment\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.pdb
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final-Project-Assignment\Final Project Assignment\Final Project Assignment\obj\Debug\Final_Project_Assignment.Form1.resources
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final-Project-Assignment\Final Project Assignment\Final Project Assignment\obj\Debug\Final_Project_Assignment.Form2.resources
