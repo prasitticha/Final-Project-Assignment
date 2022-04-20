@@ -139,7 +139,7 @@
             this.buttonLogin.TabIndex = 3;
             this.buttonLogin.Text = "Login";
             this.buttonLogin.UseVisualStyleBackColor = false;
-            this.buttonLogin.Click += new System.EventHandler(this.buttonLogin_Click_1);
+            this.buttonLogin.Click += new System.EventHandler(this.buttonLogin_Click);
             // 
             // Form1
             // 

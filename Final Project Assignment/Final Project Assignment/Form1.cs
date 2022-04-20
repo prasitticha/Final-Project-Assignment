@@ -19,7 +19,7 @@ namespace Final_Project_Assignment
             InitializeComponent();
         }
 
-        private void buttonLogin_Click_1(object sender, EventArgs e)
+        private void buttonLogin_Click(object sender, EventArgs e)
         {
             string User = textBoxUser.Text;
             string Password = textBoxPassword.Text;
