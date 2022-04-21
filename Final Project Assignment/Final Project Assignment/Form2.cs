@@ -26,13 +26,13 @@ namespace Final_Project_Assignment
 
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            OpenFileDialog openFileDialog = new OpenFileDialog();
-            openFileDialog.Filter = "CSV (*.csv) | *.csv";
-            if (openFileDialog.ShowDialog() == DialogResult.OK)
+            OpenFileDialog opd = new OpenFileDialog();
+            opd.Filter = "CSV (*.csv) | *.csv";
+            if (opd.ShowDialog() == DialogResult.OK)
             {
-                string[] readAllLine = File.ReadAllLines(openFileDialog.FileName);
+                string[] readAllLine = File.ReadAllLines(opd.FileName);
 
-                string readAllText = File.ReadAllText(openFileDialog.FileName);
+                string readAllText = File.ReadAllText(opd.FileName);
                 for (int i = 1; i < readAllLine.Length; i++)
                 {
                     string allDATARAW = readAllLine[i];
@@ -44,9 +44,9 @@ namespace Final_Project_Assignment
 
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            SaveFileDialog saveFileDialog = new SaveFileDialog();
-            saveFileDialog.Filter = "CSV(*.csv)|*.csv";
-            if (saveFileDialog.ShowDialog() == DialogResult.OK)
+            SaveFileDialog sfd = new SaveFileDialog();
+            sfd.Filter = "CSV(*.csv)|*.csv";
+            if (sfd.ShowDialog() == DialogResult.OK)
             {
                 {
                     int columnCount = dataGridView1.Columns.Count;
@@ -64,7 +64,7 @@ namespace Final_Project_Assignment
                             outputCSV[i] += dataGridView1.Rows[i - 1].Cells[j].Value.ToString() + ",";
                         }
                     }
-                    File.WriteAllLines(saveFileDialog.FileName, outputCSV, Encoding.UTF8);
+                    File.WriteAllLines(sfd.FileName, outputCSV, Encoding.UTF8);
                 }
             }
         }
